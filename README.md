@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ejaz-Ul-Huque
 - 👀 I’m interested in Java and Web Development
-- 🌱 I’m currently learning Java
+- 🌱 Currently Working in Tech Mahindra as a Junior Software Engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
