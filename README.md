@@ -9,7 +9,8 @@ Ejaz-Ul-Huque/Ejaz-Ul-Huque is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <img width="400px" align="right" src="https://img.devrant.com/devrant/rant/r_1634247_JKL8s.jpg" />
+<!--   <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" /> -->
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li> 👋 Hi, I’m @Ejaz-Ul-Huque</li>
