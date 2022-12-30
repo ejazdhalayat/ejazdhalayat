@@ -8,6 +8,6 @@
 Ejaz-Ul-Huque/Ejaz-Ul-Huque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+<a href="https://github.com/Ejaz-Ul-Huque"><img src="contributions.svg"></a>
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
