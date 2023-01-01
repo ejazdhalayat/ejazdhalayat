@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <li> 👋 Hi, I’m @Ejaz Dhalayat</li>
     <li>🔭 I’m currently working  in Tech Mahindra as a Junior Software Engineer.</li>
     <li>🧐Learning React JS.</li>
-    <li><img width="40px" align="" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" />🧐Learning React JS.</li>
+    <li><img width="40px" align="" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" />Learning React JS.</li>
 <!--     https://b2053448.smushcdn.com/2053448/wp-content/uploads/2020/12/react.jpg?lossy=1&strip=1&webp=1 -->
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Ejaz-Ul-Huque">My Portfolio Website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/ejaz-ul-huque-6437a217b/">LinkedIn</a>.</li>
@@ -30,4 +30,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-3824fcd6-f127-4c2b-8c77-2f861588c04c
