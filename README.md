@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m @Ejaz-Ul-Huque
+<!-- - 👋 Hi, I’m @Ejaz Dhalayat
 - 👀 I’m interested in Java and Web Development
 - 🌱 Currently Working in Tech Mahindra as a Junior Software Engineer.
 - 💞️ I’m looking to collaborate on ...
