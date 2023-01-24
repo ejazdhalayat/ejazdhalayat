@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
     <li>🎉 Fun Fact: <strong> Your Hours Will be Longer.</strong></li>
   </ul>
 </div>
-<a href="https://github.com/Ejaz-Ul-Huque"><img src="contributions.svg"></a>
+<a href="https://github.com/ejazdhalayat"><img src="contributions.svg"></a>
 
 <!-- ![image](https://user-images.githubusercontent.com/88812887/210178552-0f60e98b-ca7b-4c8e-888f-b3b7c7efdfa8.png)
  -->
