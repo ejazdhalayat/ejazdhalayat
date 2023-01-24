@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <!--     <li>📝 I regulary write articles on <a href="https://blog.tomondre.com">my blog</a>.</li> -->
     <li>💬 Ping me about <strong>Frontend Development</strong>.</li>
 <!--     <li>📙 Check out my <a href="">resume</a>.</li> -->
-    <li>🎉 Fun Fact: Your Hours Will be Longer.</li>
+    <li>🎉 Fun Fact: <strong> Your Hours Will be Longer.</strong></li>
   </ul>
 </div>
 <a href="https://github.com/Ejaz-Ul-Huque"><img src="contributions.svg"></a>
