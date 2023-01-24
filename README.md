@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
     <li><img width="20px" align="" src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" />  Learning React JS.</li> 
 <!--     https://b2053448.smushcdn.com/2053448/wp-content/uploads/2020/12/react.jpg?lossy=1&strip=1&webp=1 -->
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Ejaz-Ul-Huque">My Portfolio Website</a>.</li>
-    <li>📝 I am often active on <a href="https://www.linkedin.com/in/ejaz-ul-huque-6437a217b/">LinkedIn</a>.</li>
+    <li>📝 I am often active on <a href="https://www.linkedin.com/in/ejaz-dhalayat-6437a217b/">LinkedIn</a>.</li>
 <!--     <li>📝 I regulary write articles on <a href="https://blog.tomondre.com">my blog</a>.</li> -->
     <li>💬 Ping me about <strong>Frontend Development</strong>.</li>
 <!--     <li>📙 Check out my <a href="">resume</a>.</li> -->
