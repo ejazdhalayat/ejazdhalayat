@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <li> 👋 Hi, I’m @Ejaz Dhalayat</li>
     <li>🔭 I’m currently working  in Tech Mahindra as a Junior Software Engineer.</li>
    <!-- <li>🧐Learning React JS.</li> -->
-    <li><img width="20px" align="" src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" />  Learning React JS.</li> 
+    <li><img width="20px" align="" src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" /> Innovating with ReactJS | Frontend Enthusiast 🚀 | UI/UX Craftsman .</li> 
 <!--     https://b2053448.smushcdn.com/2053448/wp-content/uploads/2020/12/react.jpg?lossy=1&strip=1&webp=1 -->
     <li>👨‍💻 Most of my projects are available on <a href="https://64c69f5506b69b21d23f90d8--kaleidoscopic-malasada-11f08e.netlify.app/">My Portfolio Website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/ejaz-dhalayat-6437a217b/">LinkedIn</a>.</li>
