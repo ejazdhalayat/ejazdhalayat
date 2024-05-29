@@ -24,13 +24,14 @@ You can click the Preview link to take a look at your changes.
     <li>💬 Ping me about <strong>Frontend Development</strong>.</li>
 <!--     <li>📙 Check out my <a href="">resume</a>.</li> -->
     <li>🎉 Fun Fact: <strong> Your Hours Will be Longer.</strong></li>
-    <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ejazdhalayat" />
+ 
   </ul>
 </div>
 <a href="https://github.com/ejazdhalayat"><img src="contributions.svg"></a>
+   <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ejazdhalayat" />
 
 <!-- ![image](https://user-images.githubusercontent.com/88812887/210178552-0f60e98b-ca7b-4c8e-888f-b3b7c7efdfa8.png)
  -->
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
