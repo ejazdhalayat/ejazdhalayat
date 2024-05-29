@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   </ul>
 </div>
 <a href="https://github.com/ejazdhalayat"><img src="contributions.svg"></a>
-   <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ejazdhalayat" />
+<!--    <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ejazdhalayat" /> -->
 
 <!-- ![image](https://user-images.githubusercontent.com/88812887/210178552-0f60e98b-ca7b-4c8e-888f-b3b7c7efdfa8.png)
  -->
