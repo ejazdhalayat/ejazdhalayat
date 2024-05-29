@@ -34,4 +34,7 @@ You can click the Preview link to take a look at your changes.
  -->
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ejazdhalayat&show_icons=true&theme=great-gatsby" alt="ejaz" />
+
+
 
